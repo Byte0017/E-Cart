@@ -1,10 +1,8 @@
-# E-Cart Nine Iota
+# E-Cart
 
-E-Cart Nine Iota is a modern e-commerce platform designed to provide a seamless online shopping experience. The site allows users to browse products, add them to a cart, and complete a checkout process. It is built using the latest web technologies for optimal performance and user experience.
-
+E-Cart is a modern e-commerce platform designed for a seamless, secure shopping experience. With a user-friendly interface, it lets customers easily browse products, manage their cart, and complete checkout on both desktop and mobile devices. Built with the latest technologies, E-Cart ensures smooth performance and consistent usability across all screen sizes.
 ## Features
 
-- **User Authentication**: Sign up and log in to the platform to access personalized features.
 - **Product Browsing**: View various products categorized into different sections.
 - **Shopping Cart**: Add and manage items in the shopping cart.
 - **Checkout**: Proceed to checkout with an easy and secure payment flow.
@@ -13,10 +11,8 @@ E-Cart Nine Iota is a modern e-commerce platform designed to provide a seamless 
 ## Tech Stack
 
 - **Frontend**: React.js, HTML, CSS, JavaScript
-- **Backend**: (Add the backend tech stack here, if applicable. For example, Node.js, Express, etc.)
-- **State Management**: Redux (or Context API, if applicable)
-- **Styling**: Tailwind CSS (or other styling frameworks, if applicable)
-- **Database**: (Add the database used, if applicable)
+- **State Management**: Redux 
+- **Styling**: Tailwind CSS 
 
 ## Installation
 
